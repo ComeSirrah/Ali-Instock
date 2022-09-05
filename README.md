@@ -7,7 +7,7 @@ This is a short script designed to do two things.
 **PLEASE NOTE:**
 There are a few limitations to what this script can achieve as it is currently written. 
 Namely, this scrtipt will only notify you if every item available for sale on the webpage is in stock.
-This behavior expected and is due to the script specifically looking for any instance of a particular 
+This behavior expected and is due to the script specifically looking for _any_ instance of a particular 
 JavaScript marker which indicates an OOS status. Therefore, if you're looking at a store page with more
 than one variant of the item, and multiple variants are out of stock, you won't recieve a notification
 until everything is back in stock, even if the particulat variant you desired has been ins tock for 
