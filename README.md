@@ -10,7 +10,7 @@ Namely, this scrtipt will only notify you if every item available for sale on th
 This behavior expected and is due to the script specifically looking for _any_ instance of a particular 
 JavaScript marker which indicates an OOS status. Therefore, if you're looking at a store page with more
 than one variant of the item, and multiple variants are out of stock, you won't recieve a notification
-until everything is back in stock, even if the particulat variant you desired has been ins tock for 
+until everything is back in stock, even if the particulat variant you desired has been in stock for 
 days. Obviously this can be undrsireable, but I can't really be bothered to improve this behavior and
 my understanding of JS webpage functionality at this point wouldn't allow me to if I could.
 
