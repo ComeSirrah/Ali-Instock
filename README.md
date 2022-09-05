@@ -27,7 +27,7 @@ Twilio number, and Auth Token on Youtube.
 4) Edit the Ali-Instock.py file and replace the text message variable and default URL
 (currently the Miyoo Mini game system) to reflect the product you're looking to purchase.
 5) If it isnt obvious, when you run the script, you must run the script in the background 
-(i.e "nohup python3 Al\_instock.py &") or leave it running in the terminal.
+(i.e "nohup python3 Ali_instock.py &") or leave it running in the terminal.
 
 That should be everything.
 
